@@ -15,3 +15,7 @@ Struyk, Ryan. “Blacks and whites see racism in the United States very, very di
 Section 1 Works Cited:
 Our story: Raikes Foundation. Our Story | Raikes Foundation. (n.d.). Retrieved December 7, 2022, from https://raikesfoundation.org/our-story#our-mission,-vision-and-values 
 The Raikes Foundation. High Tech High Graduate School of Education. (2020, July 20). Retrieved December 7, 2022, from https://hthgse.edu/supporters/the-raikes-foundation/ 
+
+Section 6 Works Cited:
+Ball, Annahita. “Calling Social Work to the Movement for Educational Justice.” Social Work Research, vol. 44, no. 4, Dec. 2020, pp. 267–77. EBSCOhost, https://doi-org.proxy2.cl.msu.edu/10.1093/swr/svaa014. Accessed 25 November 2022
+https://www.shutterstock.com/image-photo/portrait-smiling-little-school-kids-corridor-259319342
