@@ -1,7 +1,5 @@
 # Group 17 Final Project readme
 
-This is where you should drop citations for all the images, links, articles, etc. that you used. You do not need to create hyperlinks.
-
 Works Cited in Section 4
 Kolhatkar, Sonali. “On America's Residential Caste System—and How to Abolish It.” YES! Magazine, 27 September 2021, https://www.yesmagazine.org/social-justice/2021/09/27/book-americas-residential-caste-system. Accessed 14 December 2022.
 “Racial and Ethnic Household Wealth Trends & Wealth Inequality.” Federal Reserve Bank of St. Louis, https://www.stlouisfed.org/institute-for-economic-equity/the-real-state-of-family-wealth/racial-and-ethnic-household-wealth. Accessed 14 December 2022.
@@ -19,3 +17,6 @@ The Raikes Foundation. High Tech High Graduate School of Education. (2020, July 
 Section 6 Works Cited:
 Ball, Annahita. “Calling Social Work to the Movement for Educational Justice.” Social Work Research, vol. 44, no. 4, Dec. 2020, pp. 267–77. EBSCOhost, https://doi-org.proxy2.cl.msu.edu/10.1093/swr/svaa014. Accessed 25 November 2022
 https://www.shutterstock.com/image-photo/portrait-smiling-little-school-kids-corridor-259319342
+
+Section 5 Works Cited:
+Williams, David R., et al. Race, Socioeconomic Status, and Health: Complexities, Ongoing Challenges, and Research Opportunities. 2010. EBSCOhost, https://doi.org/10.1111/j.1749-6632.2009.05339.x. Accessed 25 November 2022.
