@@ -1,2 +1,3 @@
 # ISS210FinalTemplate
-This is where you should drop citations for all the images, links, articles, etc. that you used. You do not need to create hyperlinks.
+Williams, David R., et al. Race, Socioeconomic Status, and Health: Complexities, Ongoing Challenges, and Research Opportunities. 2010. EBSCOhost, https://doi.org/10.1111/j.1749-6632.2009.05339.x. Accessed 25 November 2022.
+
