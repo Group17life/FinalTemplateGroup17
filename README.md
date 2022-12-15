@@ -19,4 +19,5 @@ Ball, Annahita. “Calling Social Work to the Movement for Educational Justice.�
 https://www.shutterstock.com/image-photo/portrait-smiling-little-school-kids-corridor-259319342
 
 Section 5 Works Cited:
+Keshavan, Meghana. “'The Direct Result of Racism': Covid-19 Lays Bare How Discrimination Drives Health Disparities among Black People.” STAT, 9 June 2020, https://www.statnews.com/2020/06/09/systemic-racism-black-health-disparities/.
 Williams, David R., et al. Race, Socioeconomic Status, and Health: Complexities, Ongoing Challenges, and Research Opportunities. 2010. EBSCOhost, https://doi.org/10.1111/j.1749-6632.2009.05339.x. Accessed 25 November 2022.
