@@ -1,4 +1,5 @@
-# ISS210FinalTemplate
+# FinalTemplateGroup17
+
 This is where you should drop citations for all the images, links, articles, etc. that you used. You do not need to create hyperlinks.
 
 Works Cited in Section 4
